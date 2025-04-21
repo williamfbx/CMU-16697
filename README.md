@@ -1,7 +1,7 @@
-# MRSD Project I
-Subject Name: MRSD Project I  
-Subject Code: 16681-A  
+# Introduction to Robotics Business
+Subject Name: Introduction to Robotics Business  
+Subject Code: 16697-A  
 Semester Taken: Spring 2025  
-Instructor: John M. Dolan  
+Instructor: Parag Batavia  
 Grade: TBC  
 Difficulty: TBC/5  
